@@ -2,7 +2,7 @@ package PackageFirst;
 
 class MyClass {
 	static void sayHello() {
-		System.out.println("Helloo Dnyaneshwar # !");
+		System.out.println("Helloo Dnyaneshwar # !!");
 		
 	}
 	public static void main (String[] args) 
